@@ -1,0 +1,8 @@
+gh
+git
+python3-pip
+cdrdao
+flac
+shntool
+cuetools
+rpi-imager
